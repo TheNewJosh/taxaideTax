@@ -1,0 +1,134 @@
+.bg-black{
+  background-color: #060809 !important;
+}
+
+.bg-blackB{
+  background-color: #060809 !important;
+  background-image: url('./image/circle.png');
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 410px;
+}
+
+.imgBusinessSec{
+  margin-top: -100px;
+}
+
+.imgBusiness{
+  height: 500px;
+}
+
+.backCirclemdpage{
+  background-image: url('./image/circlepmt.png');
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.white-text{
+  color: #ECF1F0;
+}
+
+.white-text-p{
+  color: #FFFFFF;
+}
+
+.activeLink{
+  padding-bottom: 2px;
+  border-bottom: 2px solid #5CB23A;
+}
+
+.linkHref{
+  margin-right: 15px;
+}
+
+.linkHref:focus {
+  color: #25A75C !important;
+}
+
+.sideBar{
+  padding-right: 10px;
+  border-left: 2px solid #ECF1F0;
+  
+}
+
+.buttonArea{
+  background-color: #5CB23ACC;
+  padding: 10px;
+  color: #ECF1F0;
+  border-radius: 10px;
+}
+
+a{
+  text-decoration: none;
+}
+
+.headingText{
+  color: #4F4F4F;
+  font-weight: bolder;
+}
+
+.subText{
+  color: #4F4F4F;
+}
+
+.card-body{
+  width: 350px !important;
+}
+
+.borderBar{
+  border-left: 3px solid #DBE2EA;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  cursor: pointer;
+}
+
+.activeBorder{
+  border-left: 3px solid #25A75C;
+}
+
+.removeSpace{
+  margin-top: -16px;
+}
+
+.margBelow{
+  margin-top: 200px;
+}
+
+.leftpanelH{
+  height: 500px;
+}
+
+.bgwithTab{
+  background-image: url('./image/bgTab.png');
+  background-repeat: no-repeat;
+  background-position: cover;
+  padding: 80px;
+  border-radius: 10px;
+}
+
+.buttonAreaTab{
+  background-color: #FFFFFF;
+  color: #25A75C;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.alinkft{
+  color: #979797;
+}
+
+.faitCllu{
+  color: #979797;
+}
+
+.iconsvg{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.iconsvg svg{
+  color: #979797;
+  margin-right: 20px;
+}
